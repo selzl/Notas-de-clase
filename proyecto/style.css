@@ -45,6 +45,11 @@ body{
     border: 2px solid #e09db0;
     margin-bottom: 10px;
     background-color: #C06C84;
-    text-align:left;
-    
+    text-align:left;   
+}
+.footer{
+    background-color:#8f7ca1;
+    font-size: 22px;
+    color: white;
+    text-align: center;
 }
